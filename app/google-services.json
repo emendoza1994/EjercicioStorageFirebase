@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262731491647",
+    "project_id": "ejerciciostorage-8c353",
+    "storage_bucket": "ejerciciostorage-8c353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262731491647:android:895faf08e45dd9b3668b8a",
+        "android_client_info": {
+          "package_name": "es.erica.ejerciciostoragefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262731491647-bc8u909mm5odajfcvb1p7u4khjs8l4u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASLKgA5Ts85vGt_KlshiALW9gG4FLgJns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262731491647-bc8u909mm5odajfcvb1p7u4khjs8l4u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
